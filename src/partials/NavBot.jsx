@@ -35,11 +35,11 @@ function NavBot() {
 
   // Direct Up
   switch (pathname) {
-    case "/":
+    case "/home":
       directUp = "/contact";
       break;
     case "/about":
-      directUp = "/";
+      directUp = "/home";
       break;
     case "/skills":
       directUp = "/about";
@@ -55,7 +55,7 @@ function NavBot() {
 
   // Direct Down
   switch (pathname) {
-    case "/":
+    case "/home":
       directDown = "/about";
       break;
     case "/about":
@@ -68,7 +68,7 @@ function NavBot() {
       directDown = "/contact";
       break;
     case "/contact":
-      directDown = "/";
+      directDown = "/home";
       break;
     default:
   }
