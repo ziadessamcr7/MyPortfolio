@@ -46,7 +46,7 @@ const allProjects = [
   },
   {
     title: 'Devfolio',
-    img: require('../img/_C__Route_week5_Assignment6_devfolio.html.png'),
+    img: require('../img/devfolio.webp'),
     description: '',
     websiteUrl: 'https://ziadessamcr7.github.io/DevFolio-webPage/',
     githubUrl: 'https://github.com/ziadessamcr7/DevFolio-webPage',
