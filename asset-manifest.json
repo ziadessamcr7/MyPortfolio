@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.36761b7e.css",
-    "main.js": "/MyPortfolio/static/js/main.2cbb0a70.js",
+    "main.js": "/MyPortfolio/static/js/main.49e33ed4.js",
     "static/media/Nti-Task-7.webp": "/MyPortfolio/static/media/Nti-Task-7.a4f59886f83388d2eaf2.webp",
     "static/media/meals-APIs.webp": "/MyPortfolio/static/media/meals-APIs.83981b0353ebf3308f38.webp",
     "static/media/Bakery-webPage.webp": "/MyPortfolio/static/media/Bakery-webPage.cebce0574626cc8b1b98.webp",
@@ -31,10 +31,10 @@
     "static/media/nti-cer.webp": "/MyPortfolio/static/media/nti-cer.e8b7ecf16aa90ce0bf61.webp",
     "index.html": "/MyPortfolio/index.html",
     "main.36761b7e.css.map": "/MyPortfolio/static/css/main.36761b7e.css.map",
-    "main.2cbb0a70.js.map": "/MyPortfolio/static/js/main.2cbb0a70.js.map"
+    "main.49e33ed4.js.map": "/MyPortfolio/static/js/main.49e33ed4.js.map"
   },
   "entrypoints": [
     "static/css/main.36761b7e.css",
-    "static/js/main.2cbb0a70.js"
+    "static/js/main.49e33ed4.js"
   ]
 }
