@@ -46,7 +46,7 @@ function Home() {
         </div>
         <div className="home-right animate__animated animate__fadeIn animate__slower">
           <img
-            className="home-image"
+            className="home-image rounded-5"
             src={image}
             onMouseOver={setAvatarReal}
             onMouseOut={setAvatarAnimation}

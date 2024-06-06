@@ -15,6 +15,10 @@ function SideVertical(props) {
       numberPage = "01";
       titlePage = "Home";
       break;
+    case "/MyPortfolio":
+      numberPage = "01";
+      titlePage = "Home";
+      break;
     case "/about":
       numberPage = "02";
       titlePage = "About";
@@ -39,6 +43,9 @@ function SideVertical(props) {
     case "/home":
       directUp = "/contact";
       break;
+    case "/MyPortfolio":
+      directUp = "/contact";
+      break;
     case "/about":
       directUp = "/home";
       break;
@@ -58,6 +65,9 @@ function SideVertical(props) {
   switch (pathname) {
     case "/home":
       directDown = "/about";
+      break;
+    case "/MyPortfolio":
+      directUp = "/contact";
       break;
     case "/about":
       directDown = "/skills";
