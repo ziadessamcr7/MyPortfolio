@@ -14,7 +14,7 @@ function NavBot() {
       numberPage = "01";
       titlePage = "Home";
       break;
-    case "/MyPortfolio":
+    case "/MyPortfolio/":
       numberPage = "01";
       titlePage = "Home";
       break;
@@ -42,7 +42,7 @@ function NavBot() {
     case "/home":
       directUp = "/contact";
       break;
-    case "/MyPortfolio":
+    case "/MyPortfolio/":
       directUp = "/contact";
       break;
     case "/about":
@@ -65,7 +65,7 @@ function NavBot() {
     case "/home":
       directDown = "/about";
       break;
-    case "/MyPortfolio":
+    case "/MyPortfolio/":
       directDown = "/about";
       break;
     case "/about":
