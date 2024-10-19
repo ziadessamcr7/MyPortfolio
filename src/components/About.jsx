@@ -39,7 +39,7 @@ function About() {
         </div>
         <div className="about-right animate__animated animate__fadeIn animate__slower py-3">
           <p>
-            Hi, I'm Ziad Essam Elsharkawy, I'm a 23 years old computer science graduate. I graduated from
+            Hi, I'm Ziad Essam Elsharkawy, I'm a 24 years old computer science graduate. I graduated from
             Modern university for technology & info. (MTI) IN 2022. I have a strong interest in front-end web development.
             I'm working with react.js and i have a good knowledge in next.js
           </p>
