@@ -1,4 +1,15 @@
+let HeightOfImg = 0
+let arrOfHeight = []
 const allProjects = [
+  {
+    title: 'Project Managment Sys',
+    img: require('../img/pms.webp'),
+    description:
+      'Pms for admin and employee',
+    websiteUrl: 'https://project-management-system-five.vercel.app/',
+    githubUrl: 'https://github.com/ziadessamcr7/project-management-system',
+    techStack: ['Reactjs', 'Bootstrap'],
+  },
   {
     title: 'E-commerece',
     img: require('../img/home.webp'),
@@ -164,5 +175,39 @@ const allProjects = [
   },
 
 ];
+
+
+// Function to get the dimensions of an image
+function getImageDimensions(imgSrc, callback) {
+  const img = new Image(); // Create an image object
+  img.src = imgSrc; // Set the source to the image path
+
+  img.onload = () => {
+    // Wait until the image is fully loaded
+    const width = img.width;
+    const height = img.height;
+    callback(width, height);
+  };
+
+  img.onerror = (err) => {
+    console.error('Error loading image:', err);
+  };
+}
+
+// Use the function
+for (let i = 0; i < allProjects.length; i++) {
+  // const element = allProjects[i];
+  getImageDimensions(allProjects[i].img, (width, height) => {
+    // console.log('Width:', width);
+    // console.log('Height:', height);
+    HeightOfImg = height
+
+    arrOfHeight.push(height)
+
+  });
+
+}
+
+export { arrOfHeight }
 
 export default allProjects;

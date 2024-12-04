@@ -4,7 +4,7 @@ import "./CSS/Footer.css";
 function Footer() {
   return (
     <>
-      <footer className="px-4">
+      <footer className="px-4 py-1">
         <div className="foot-left d-flex">
           <p>Ziad Essam ELsharkawy &copy; 2024</p>
         </div>

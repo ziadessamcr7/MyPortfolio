@@ -3,7 +3,11 @@ import { AiOutlineLink, AiFillGithub } from 'react-icons/ai';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import './CSS/Projects.css';
 import allProjects from '../assets/Routes/AllProject';
+import { arrOfHeight } from '../assets/Routes/AllProject';
 console.log(allProjects);
+
+console.log(arrOfHeight);
+
 function Projects() {
   return (
     <>
@@ -15,7 +19,7 @@ function Projects() {
       <Container fluid className="projects-container">
         <div className="projects-title animate__animated animate__zoomIn">
           <h3>Projects</h3>
-          <h4>
+          <h4 className='p-0 m-0'>
             ───&nbsp;&nbsp;Page <strong>04</strong>
           </h4>
         </div>
@@ -24,11 +28,11 @@ function Projects() {
             {allProjects.map((project, idx) => (
               <div className="col project-col" key={idx}>
                 <div className="project-card">
-                  <div className="imgsec">
+                  <div className='imgsec'>
                     <img src={project.img} alt={project.title} loading="lazy" />
                   </div>
                   <div className="project-content">
-                    <h3>{project.title}</h3>
+                    <h4>{project.title}</h4>
                     <p>{project.description}</p>
                     {/* <a className="btn-website" href={project.websiteUrl} target="_blank" rel="noreferrer">
                       <AiOutlineLink className="project-icon" />

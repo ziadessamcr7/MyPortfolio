@@ -86,7 +86,7 @@ function SideVertical(props) {
 
   return (
     <>
-      <div className="side-vertical">
+      <div className="side-vertical p-1">
         <div className="upper-side d-flex">
           <p className="side-title">{titlePage}</p>
           <p className="side-date">{date}</p>

@@ -5,19 +5,21 @@
 .projects-title h3 {
   font-family: "Archivo", sans-serif;
   font-weight: 800;
-  font-size: 50px;
+  font-size: 40px;
   margin: 0px;
 }
 
 .projects-title h4 {
   font-family: "Manrope", sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .projects-wrapper {
   height: 450px;
+  padding: 50px;
   overflow-y: scroll;
   overflow-x: hidden;
+
 }
 
 .project-card {
@@ -118,7 +120,7 @@ span#tech-stack {
 .imgsec {
   height: 40vh;
   margin-bottom: 5vh;
-  overflow: hidden;
+  overflow-y: hidden;
 
   position: relative;
 }
