@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.5018b9e6.css",
-    "main.js": "/MyPortfolio/static/js/main.63e71cee.js",
+    "main.css": "/MyPortfolio/static/css/main.86d99fd8.css",
+    "main.js": "/MyPortfolio/static/js/main.9ee4767e.js",
     "static/media/Nti-Task-7.webp": "/MyPortfolio/static/media/Nti-Task-7.a4f59886f83388d2eaf2.webp",
     "static/media/meals-APIs.webp": "/MyPortfolio/static/media/meals-APIs.83981b0353ebf3308f38.webp",
     "static/media/Bakery-webPage.webp": "/MyPortfolio/static/media/Bakery-webPage.cebce0574626cc8b1b98.webp",
@@ -18,6 +18,7 @@
     "static/media/pokemon-app-nextjs.webp": "/MyPortfolio/static/media/pokemon-app-nextjs.d18629f325bbbe1cefd3.webp",
     "static/media/Nti-Task-5.webp": "/MyPortfolio/static/media/Nti-Task-5.799118e3f7b416be524b.webp",
     "static/media/weather.webp": "/MyPortfolio/static/media/weather.26e65e38f9b8b822ba47.webp",
+    "static/media/pms.webp": "/MyPortfolio/static/media/pms.3b7f98c3dc1a2cc0040d.webp",
     "static/media/home_favorites.webp": "/MyPortfolio/static/media/home_favorites.f60c9bd1aee355ae99be.webp",
     "static/media/devicon.eot?biu5f3": "/MyPortfolio/static/media/devicon.afa70020fddd5e5a3260.eot",
     "static/media/devicon.woff?biu5f3": "/MyPortfolio/static/media/devicon.96fdfd136e8a467e1861.woff",
@@ -30,11 +31,11 @@
     "static/media/Bookmarker-CURD2.webp": "/MyPortfolio/static/media/Bookmarker-CURD2.92f2a0cf922a0be696bd.webp",
     "static/media/nti-cer.webp": "/MyPortfolio/static/media/nti-cer.e8b7ecf16aa90ce0bf61.webp",
     "index.html": "/MyPortfolio/index.html",
-    "main.5018b9e6.css.map": "/MyPortfolio/static/css/main.5018b9e6.css.map",
-    "main.63e71cee.js.map": "/MyPortfolio/static/js/main.63e71cee.js.map"
+    "main.86d99fd8.css.map": "/MyPortfolio/static/css/main.86d99fd8.css.map",
+    "main.9ee4767e.js.map": "/MyPortfolio/static/js/main.9ee4767e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5018b9e6.css",
-    "static/js/main.63e71cee.js"
+    "static/css/main.86d99fd8.css",
+    "static/js/main.9ee4767e.js"
   ]
 }
