@@ -70,9 +70,6 @@ function Skills() {
               <i className="devicon-sass-original colored" title="Sass"></i>
               <i className="devicon-redux-original colored" title="Redux"></i>
               <i class="devicon-vuejs-plain-wordmark colored" title="vue"></i>
-
-
-
             </div>
           </div>
         </div>
