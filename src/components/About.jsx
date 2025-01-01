@@ -44,7 +44,7 @@ function About() {
             I'm working with react.js and i have a good knowledge in next.js
           </p>
 
-          <h4>My Certificate from National telecommunication institute (NTI)</h4>
+          <h4>My Certificates from National telecommunication institute (NTI) & Web Masters</h4>
 
           <div className="certificates-wrapper">
             {certificateImages
