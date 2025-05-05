@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.86d99fd8.css",
-    "main.js": "/MyPortfolio/static/js/main.6134a464.js",
+    "main.js": "/MyPortfolio/static/js/main.f795085b.js",
     "static/media/Nti-Task-7.webp": "/MyPortfolio/static/media/Nti-Task-7.a4f59886f83388d2eaf2.webp",
     "static/media/meals-APIs.webp": "/MyPortfolio/static/media/meals-APIs.83981b0353ebf3308f38.webp",
     "static/media/Bakery-webPage.webp": "/MyPortfolio/static/media/Bakery-webPage.cebce0574626cc8b1b98.webp",
@@ -10,6 +10,7 @@
     "static/media/Mealify-webPage.webp": "/MyPortfolio/static/media/Mealify-webPage.364d42444b61418d5183.webp",
     "static/media/Nti-Task-4.webp": "/MyPortfolio/static/media/Nti-Task-4.48cf8891df0f50f1dae2.webp",
     "static/media/devfolio.webp": "/MyPortfolio/static/media/devfolio.a2127f0fad0a137d3e12.webp",
+    "static/media/maxeedeg.com_.png": "/MyPortfolio/static/media/maxeedeg.com_.65951dc81ef5e53e307e.png",
     "static/media/Daniles-webPage.webp": "/MyPortfolio/static/media/Daniles-webPage.918486e250d80674052b.webp",
     "static/media/devicon.svg?biu5f3": "/MyPortfolio/static/media/devicon.f715b4139afc5236a6e6.svg",
     "static/media/upskilling-test.webp": "/MyPortfolio/static/media/upskilling-test.362db313a247ea7d9a5e.webp",
@@ -33,10 +34,10 @@
     "static/media/nti-cer.webp": "/MyPortfolio/static/media/nti-cer.e8b7ecf16aa90ce0bf61.webp",
     "index.html": "/MyPortfolio/index.html",
     "main.86d99fd8.css.map": "/MyPortfolio/static/css/main.86d99fd8.css.map",
-    "main.6134a464.js.map": "/MyPortfolio/static/js/main.6134a464.js.map"
+    "main.f795085b.js.map": "/MyPortfolio/static/js/main.f795085b.js.map"
   },
   "entrypoints": [
     "static/css/main.86d99fd8.css",
-    "static/js/main.6134a464.js"
+    "static/js/main.f795085b.js"
   ]
 }
