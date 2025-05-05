@@ -112,13 +112,16 @@ function Contact() {
                 </div>
               </div>
               <div className="col contact-col animate__animated animate__slideInRight">
-                <div className="whatsapp-wrapper">
-                  <h3>
-                    <AiOutlineWhatsApp />
-                    &nbsp;&nbsp;Whatsapp
-                  </h3>
-                  <p>+201123984085</p>
-                </div>
+                <a className="text-black text-decoration-none" target="_blank" href="https://wa.me/+201123984085">
+                  <div className="whatsapp-wrapper">
+                    <h3>
+                      <AiOutlineWhatsApp />
+                      &nbsp;&nbsp;Whatsapp
+                    </h3>
+                    <p>  +201123984085</p>
+                  </div>
+                </a>
+
               </div>
             </div>
           </div>
