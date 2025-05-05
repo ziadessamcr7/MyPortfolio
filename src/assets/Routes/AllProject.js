@@ -2,10 +2,19 @@ let HeightOfImg = 0
 let arrOfHeight = []
 const allProjects = [
   {
+    title: 'Maxeed Agriculture',
+    img: require('../img/maxeedeg.com_.png'),
+    description:
+      '',
+    websiteUrl: 'http://maxeedeg.com/',
+    githubUrl: '#',
+    techStack: ['Reactjs', 'Bootstrap'],
+  },
+  {
     title: 'Project Managment Sys',
     img: require('../img/pms.webp'),
     description:
-      'Pms for admin and employee',
+      '',
     websiteUrl: 'https://project-management-system-five.vercel.app/',
     githubUrl: 'https://github.com/ziadessamcr7/project-management-system',
     techStack: ['Reactjs', 'Bootstrap'],
