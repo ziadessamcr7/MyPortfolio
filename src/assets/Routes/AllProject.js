@@ -2,6 +2,34 @@ let HeightOfImg = 0
 let arrOfHeight = []
 const allProjects = [
   {
+    title: 'Fakkar Dashboard',
+    img: require('../img/fakkar-dashboard.png'),
+    description:
+      '',
+    websiteUrl: 'https://fakr-dashboard.vercel.app/',
+    githubUrl: '#',
+    techStack: ['Reactjs', 'MUI'],
+  },
+
+  {
+    title: 'Fakkar Website',
+    img: require('../img/fakkar-website.png'),
+    description:
+      '',
+    websiteUrl: 'https://fakr-web-site.vercel.app/',
+    githubUrl: '#',
+    techStack: ['Reactjs', 'Bootstrap'],
+  },
+  {
+    title: 'Baby Humod Dashboard',
+    img: require('../img/baby-hmoud-dash.png'),
+    description:
+      '',
+    websiteUrl: 'https://baby-hmoud-dashboard.vercel.app/',
+    githubUrl: '#',
+    techStack: ['Reactjs', 'MUI'],
+  },
+  {
     title: 'Maxeed Agriculture',
     img: require('../img/maxeedeg.com_.png'),
     description:
