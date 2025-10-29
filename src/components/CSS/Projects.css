@@ -62,7 +62,21 @@ a.btn-maintenence {
   padding: 6px 8px 6px 8px;
   border-radius: 0.3rem;
   font-size: 14px;
+  
 
+}
+
+a.btn-website-not-allowed{
+  font-family: "Manrope", sans-serif;
+  text-decoration: none;
+  color: var(--fourth-color);
+  padding: 6px 8px 6px 8px;
+  border-radius: 0.3rem;
+  font-size: 14px;
+  cursor: not-allowed !important;
+  background-color: rgb(173, 173, 173) !important;
+    pointer-events: none !important; 
+    margin-right: 5px;
 }
 
 a.btn-website:hover,

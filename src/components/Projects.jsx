@@ -49,15 +49,19 @@ function Projects() {
                           &nbsp;&nbsp;Maintenance
                         </a>
                       ) : (
-                        <a
-                          className="btn-website btn"
-                          href={project.websiteUrl}
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <AiOutlineLink className="project-icon" />
-                          &nbsp;&nbsp;Website
-                        </a>
+                       
+                          
+                          <a
+                            className={ ` ${project?.websiteUrl?.includes("dashboard") ? "btn-website-not-allowed" : "btn-website" }  `}
+                            href={project?.websiteUrl?.includes("dashboard") ? "" : project?.websiteUrl}
+                            target="_blank"
+                            rel="noreferrer"
+
+                          >
+                            <AiOutlineLink className="project-icon" />
+                            &nbsp;&nbsp;Website
+                          </a>
+
                       )
                     ) : (
                       ''
