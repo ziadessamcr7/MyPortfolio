@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.86d99fd8.css",
-    "main.js": "/MyPortfolio/static/js/main.9d95167e.js",
+    "main.css": "/MyPortfolio/static/css/main.8df98bb3.css",
+    "main.js": "/MyPortfolio/static/js/main.6270b3d5.js",
     "static/media/Nti-Task-7.webp": "/MyPortfolio/static/media/Nti-Task-7.a4f59886f83388d2eaf2.webp",
     "static/media/meals-APIs.webp": "/MyPortfolio/static/media/meals-APIs.83981b0353ebf3308f38.webp",
     "static/media/Bakery-webPage.webp": "/MyPortfolio/static/media/Bakery-webPage.cebce0574626cc8b1b98.webp",
@@ -36,11 +36,11 @@
     "static/media/Bookmarker-CURD2.webp": "/MyPortfolio/static/media/Bookmarker-CURD2.92f2a0cf922a0be696bd.webp",
     "static/media/nti-cer.webp": "/MyPortfolio/static/media/nti-cer.e8b7ecf16aa90ce0bf61.webp",
     "index.html": "/MyPortfolio/index.html",
-    "main.86d99fd8.css.map": "/MyPortfolio/static/css/main.86d99fd8.css.map",
-    "main.9d95167e.js.map": "/MyPortfolio/static/js/main.9d95167e.js.map"
+    "main.8df98bb3.css.map": "/MyPortfolio/static/css/main.8df98bb3.css.map",
+    "main.6270b3d5.js.map": "/MyPortfolio/static/js/main.6270b3d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.86d99fd8.css",
-    "static/js/main.9d95167e.js"
+    "static/css/main.8df98bb3.css",
+    "static/js/main.6270b3d5.js"
   ]
 }
