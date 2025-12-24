@@ -52,8 +52,8 @@ const allProjects = [
     img: require('../img/home.webp'),
     description:
       '',
-    websiteUrl: 'https://ziadessamcr7.github.io/e-commerce-login',
-    githubUrl: 'https://github.com/ziadessamcr7/e-commerce-login',
+    websiteUrl: 'https://ziadessamcr7.github.io/FreshCart',
+    githubUrl: 'https://github.com/ziadessamcr7/FreshCart',
     techStack: ['Reactjs', 'Bootstrap'],
   },
 
