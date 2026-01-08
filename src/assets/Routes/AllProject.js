@@ -6,8 +6,8 @@ const allProjects = [
     img: require('../img/task-management.png'),
     description:
       '',
-    websiteUrl: 'https://fakr-dashboard.vercel.app/',
-    githubUrl: '#',
+    websiteUrl: '#dashboard',
+    githubUrl: 'https://github.com/ziadessamcr7/task-manager-fullstack',
     techStack: ['Reactjs', 'vite', 'Node.js'],
   },
   {
@@ -15,7 +15,7 @@ const allProjects = [
     img: require('../img/aqarable.png'),
     description:
       '',
-    websiteUrl: 'dashboard',
+    websiteUrl: '#dashboard',
     githubUrl: '#',
     techStack: ['Next.js', 'MUI', 'TailwindCSS'],
   },
@@ -24,7 +24,7 @@ const allProjects = [
     img: require('../img/nabih-ss.png'),
     description:
       '',
-    websiteUrl: 'https://fakr-dashboard.vercel.app/',
+    websiteUrl: '#dashboard',
     githubUrl: '#',
     techStack: ['Reactjs', 'MUI', 'TailwindCSS'],
   },
@@ -33,7 +33,7 @@ const allProjects = [
     img: require('../img/polymed.png'),
     description:
       '',
-    websiteUrl: 'https://fakr-dashboard.vercel.app/',
+    websiteUrl: '#dashboard',
     githubUrl: '#',
     techStack: ['Reactjs', 'MUI', 'TailwindCSS'],
   },
