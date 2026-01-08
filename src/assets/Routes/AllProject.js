@@ -2,6 +2,43 @@ let HeightOfImg = 0
 let arrOfHeight = []
 const allProjects = [
   {
+    title: 'Task management',
+    img: require('../img/task-management.png'),
+    description:
+      '',
+    websiteUrl: 'https://fakr-dashboard.vercel.app/',
+    githubUrl: '#',
+    techStack: ['Reactjs', 'vite', 'Node.js'],
+  },
+  {
+    title: 'Aqarable website',
+    img: require('../img/aqarable.png'),
+    description:
+      '',
+    websiteUrl: 'dashboard',
+    githubUrl: '#',
+    techStack: ['Next.js', 'MUI', 'TailwindCSS'],
+  },
+  {
+    title: 'Nabih digital dashboard',
+    img: require('../img/nabih-ss.png'),
+    description:
+      '',
+    websiteUrl: 'https://fakr-dashboard.vercel.app/',
+    githubUrl: '#',
+    techStack: ['Reactjs', 'MUI', 'TailwindCSS'],
+  },
+  {
+    title: 'Polymed dashboard',
+    img: require('../img/polymed.png'),
+    description:
+      '',
+    websiteUrl: 'https://fakr-dashboard.vercel.app/',
+    githubUrl: '#',
+    techStack: ['Reactjs', 'MUI', 'TailwindCSS'],
+  },
+
+  {
     title: 'Fakkar Dashboard',
     img: require('../img/fakkar-dashboard.png'),
     description:
