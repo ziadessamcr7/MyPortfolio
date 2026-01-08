@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.8df98bb3.css",
-    "main.js": "/MyPortfolio/static/js/main.cfc61036.js",
+    "main.js": "/MyPortfolio/static/js/main.a1d91554.js",
     "static/media/aqarable.png": "/MyPortfolio/static/media/aqarable.9c31381e4e34bfddb2c3.png",
     "static/media/Nti-Task-7.webp": "/MyPortfolio/static/media/Nti-Task-7.a4f59886f83388d2eaf2.webp",
     "static/media/meals-APIs.webp": "/MyPortfolio/static/media/meals-APIs.83981b0353ebf3308f38.webp",
@@ -41,10 +41,10 @@
     "static/media/task-management.png": "/MyPortfolio/static/media/task-management.19fd2ac92f35dcd54292.png",
     "index.html": "/MyPortfolio/index.html",
     "main.8df98bb3.css.map": "/MyPortfolio/static/css/main.8df98bb3.css.map",
-    "main.cfc61036.js.map": "/MyPortfolio/static/js/main.cfc61036.js.map"
+    "main.a1d91554.js.map": "/MyPortfolio/static/js/main.a1d91554.js.map"
   },
   "entrypoints": [
     "static/css/main.8df98bb3.css",
-    "static/js/main.cfc61036.js"
+    "static/js/main.a1d91554.js"
   ]
 }
